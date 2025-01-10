@@ -2,6 +2,7 @@
 
 ## wat kan ik goed
 [Brief aan de mentor](opdracht_1.md)
+<br>
 [Reflectie op de ouderavond](opdracht_3.md)
 
 ## waar ga en sta ik voor
@@ -12,6 +13,7 @@
 
 ## hoe bereik ik mijn doel
 [Brief aan de mentor](opdracht_1.md)
+<br>
 [SMART methode](opdracht_4.md)
 
 ## wie kan mij helpen mijn doel te bereiken
