@@ -14,6 +14,8 @@ ik heb al veel ervaring met verschilldende talen zoals:
 - CSS
 - Javascript
 
+ik ben het best op mijn plek met mensen die geintresseerd zijn in programmeren en waar ik hulp aan kan vragen indien nodig
+
 ik heb niet veel nodig naast af en toe wat extra hulp
 
 meer is er niet
