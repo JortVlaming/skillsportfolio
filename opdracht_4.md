@@ -1,4 +1,4 @@
-# Opdracht 3
+# Opdracht 4
 ## SMART doelen stell
 
 Je kan je de vijf componenten van SMART-doelen identificeren en begrijpen:
