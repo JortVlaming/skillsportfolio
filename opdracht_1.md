@@ -5,6 +5,14 @@
 Hallo mentor
 
 mijn motivate is omdat ik het al 4 jaar doe en een diploma kan krijgen voor wat ik leuk vindt
+ik heb al veel ervaring met verschilldende talen zoals:
+- C#
+- Java
+- Python
+- MySQL
+- HTML
+- CSS
+- Javascript
 
 ik heb niet veel nodig naast af en toe wat extra hulp
 
